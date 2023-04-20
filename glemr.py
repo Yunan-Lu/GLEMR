@@ -33,7 +33,7 @@ class GLEMR:
     Examples::
         >>> Drec = GLEMR(trace_step=np.inf).fit(X, L).label_distribution_
         >>> evaluate(Drec, ground_truth)
-        >>> Drec_trace = GLEMR(trace_step=100).fit(X, L).trace
+        >>> Drec_trace = GLEMR(trace_step=100).fit(X, L).trace_
         >>> for k in Drec_trace.keys():
         >>>     evaluate(Drec_trace[k], ground_truth)
     '''
