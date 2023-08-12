@@ -1,5 +1,5 @@
 # GLEMR
-GLEMR: a **G**enerative **L**abel **E**nhancement model with Gaussian **M**ixture and partial **R**anking
+GLEMR: A **G**enerative **L**abel **E**nhancement model with Gaussian **M**ixture and partial **R**anking
  
 ## Environment
 python=3.7.6, numpy=1.21.6, scipy=1.7.3, pytorch=1.13.0+cpu.
