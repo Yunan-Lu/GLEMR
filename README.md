@@ -45,9 +45,10 @@ for k in Drec_trace.keys():
 ## Paper
 ```latex
 @inproceedings{Lu2023GLEMR,
-	title={Generative Label Enhancement with Gaussian Mixture and Partial Ranking},
-	author={Yunan Lu and Liang He and Fan Min and Weiwei Li and Xiuyi Jia},
-	booktitle={AAAI Conference on Artificial Intelligence},
-	year={2023}
+    title={Generative Label Enhancement with Gaussian Mixture and Partial Ranking},
+    author={Yunan Lu and Liang He and Fan Min and Weiwei Li and Xiuyi Jia},
+    booktitle={AAAI Conference on Artificial Intelligence},
+    year={2023},
+    pages={8975-8983}
 }
 ```
